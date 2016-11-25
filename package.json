@@ -1,0 +1,11 @@
+{
+  "name": "npm-video-test",
+  "version": "2.0.0",
+  "description": "npm test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
