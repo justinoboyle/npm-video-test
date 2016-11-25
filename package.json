@@ -1,11 +1,15 @@
 {
   "name": "npm-video-test",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "npm test",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+     "type": "git",
+     "url": "https://github.com/justinoboyle/npm-video-test.git"
+  }
 }
